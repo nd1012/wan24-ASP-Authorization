@@ -1,0 +1,96 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>wan24.ASP.Authorization</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>wan24ASPAuthorization</AssemblyName>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <PackageId>wan24-ASP-Authorization</PackageId>
+    <Title>wan24-ASP-Authorization</Title>
+    <Version>1.0.0</Version>
+    <Authors>nd1012</Authors>
+    <Company>Andreas Zimmermann, wan24.de</Company>
+    <Product>wan24-ASP-Authorization</Product>
+    <Description>ASP.NET authorization helper</Description>
+    <Copyright>(c)2024 Andreas Zimmermann, wan24.de</Copyright>
+    <PackageProjectUrl>https://github.com/nd1012/wan24-ASP-Authorization</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/nd1012/wan24-ASP-Authorization</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>asp.net;authz</PackageTags>
+    <Configurations>Debug;Release;Trunk</Configurations>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <DebugType>embedded</DebugType>
+    <EmbedAllSources>true</EmbedAllSources>
+  </PropertyGroup>
+
+  <Target Name="PreBuild" BeforeTargets="PreBuildEvent" Condition="'$(OS)' == 'Windows_NT'">
+    <Exec Command="copy /Y &quot;$(ProjectDir)..\..\README.md&quot; &quot;$(ProjectDir)README.md&quot;&#xD;&#xA;" />
+  </Target>
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="wan24-Core" Version="2.19.0" Condition="'$(Configuration)' != 'Trunk'" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\wan24-Core\src\Wan24-Core\Wan24-Core.csproj" Condition="'$(Configuration)' == 'Trunk'" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="LICENSE">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Update="README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Update="wan24-ASP-Authorization licenses\LICENSE">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="wan24-ASP-Authorization licenses\Microsoft.Extensions.Configuration.Abstractions.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="wan24-ASP-Authorization licenses\Microsoft.Extensions.DependencyInjection.Abstractions.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="wan24-ASP-Authorization licenses\Microsoft.Extensions.DependencyInjection.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="wan24-ASP-Authorization licenses\Microsoft.Extensions.Diagnostics.Abstractions.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="wan24-ASP-Authorization licenses\Microsoft.Extensions.FileProviders.Abstractions.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="wan24-ASP-Authorization licenses\Microsoft.Extensions.Hosting.Abstractions.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="wan24-ASP-Authorization licenses\Microsoft.Extensions.Localization.Abstractions.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="wan24-ASP-Authorization licenses\Microsoft.Extensions.Logging.Abstractions.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="wan24-ASP-Authorization licenses\Microsoft.Extensions.Options.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="wan24-ASP-Authorization licenses\Microsoft.Extensions.Primitives.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="wan24-ASP-Authorization licenses\README.md">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="wan24-ASP-Authorization licenses\System.Diagnostics.DiagnosticSource.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="wan24-ASP-Authorization licenses\wan24-Core.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

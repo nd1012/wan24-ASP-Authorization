@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>wan24_ASP_Authorization_Integration_Tests</RootNamespace>
+    <StartupObject>wan24_ASP_Authorization_Integration_Tests.Program</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\wan24-ASP-Authorization\wan24-ASP-Authorization.csproj" />
+  </ItemGroup>
+
+</Project>

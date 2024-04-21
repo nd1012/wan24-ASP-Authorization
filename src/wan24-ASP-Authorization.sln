@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34814.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wan24-ASP-Authorization", "wan24-ASP-Authorization\wan24-ASP-Authorization.csproj", "{448D55C6-4E52-4B41-82FC-9CB1D0442EC1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wan24-Core", "..\..\wan24-Core\src\Wan24-Core\Wan24-Core.csproj", "{839DF390-F21F-4DF6-ACEC-DEDADB120CAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wan24-ASP-Authorization Tests", "wan24-ASP-Authorization Tests\wan24-ASP-Authorization Tests.csproj", "{CDE81759-E8EF-4CC8-9614-72DBE0EEB3EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wan24-ASP-Authorization Integration Tests", "wan24-ASP-Authorization Integration Tests\wan24-ASP-Authorization Integration Tests.csproj", "{C1782503-6D30-4382-91B7-2D131DCFD606}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Trunk|Any CPU = Trunk|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{448D55C6-4E52-4B41-82FC-9CB1D0442EC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{448D55C6-4E52-4B41-82FC-9CB1D0442EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{448D55C6-4E52-4B41-82FC-9CB1D0442EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{448D55C6-4E52-4B41-82FC-9CB1D0442EC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{448D55C6-4E52-4B41-82FC-9CB1D0442EC1}.Trunk|Any CPU.ActiveCfg = Trunk|Any CPU
+		{448D55C6-4E52-4B41-82FC-9CB1D0442EC1}.Trunk|Any CPU.Build.0 = Trunk|Any CPU
+		{839DF390-F21F-4DF6-ACEC-DEDADB120CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{839DF390-F21F-4DF6-ACEC-DEDADB120CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{839DF390-F21F-4DF6-ACEC-DEDADB120CAE}.Trunk|Any CPU.ActiveCfg = Trunk|Any CPU
+		{839DF390-F21F-4DF6-ACEC-DEDADB120CAE}.Trunk|Any CPU.Build.0 = Trunk|Any CPU
+		{CDE81759-E8EF-4CC8-9614-72DBE0EEB3EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDE81759-E8EF-4CC8-9614-72DBE0EEB3EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDE81759-E8EF-4CC8-9614-72DBE0EEB3EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDE81759-E8EF-4CC8-9614-72DBE0EEB3EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDE81759-E8EF-4CC8-9614-72DBE0EEB3EF}.Trunk|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDE81759-E8EF-4CC8-9614-72DBE0EEB3EF}.Trunk|Any CPU.Build.0 = Debug|Any CPU
+		{C1782503-6D30-4382-91B7-2D131DCFD606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1782503-6D30-4382-91B7-2D131DCFD606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1782503-6D30-4382-91B7-2D131DCFD606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1782503-6D30-4382-91B7-2D131DCFD606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1782503-6D30-4382-91B7-2D131DCFD606}.Trunk|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1782503-6D30-4382-91B7-2D131DCFD606}.Trunk|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C480CB6C-2FE5-4916-8339-89A5109AD922}
+	EndGlobalSection
+EndGlobal
