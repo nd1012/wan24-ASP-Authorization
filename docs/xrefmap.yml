@@ -1,0 +1,353 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: wan24.ASP.Authorization
+  name: wan24.ASP.Authorization
+  href: api/wan24.ASP.Authorization.html
+  commentId: N:wan24.ASP.Authorization
+  fullName: wan24.ASP.Authorization
+  nameWithType: wan24.ASP.Authorization
+- uid: wan24.ASP.Authorization.Attributes
+  name: wan24.ASP.Authorization.Attributes
+  href: api/wan24.ASP.Authorization.Attributes.html
+  commentId: N:wan24.ASP.Authorization.Attributes
+  fullName: wan24.ASP.Authorization.Attributes
+  nameWithType: wan24.ASP.Authorization.Attributes
+- uid: wan24.ASP.Authorization.Attributes.NetworksAttribute
+  name: NetworksAttribute
+  href: api/wan24.ASP.Authorization.Attributes.NetworksAttribute.html
+  commentId: T:wan24.ASP.Authorization.Attributes.NetworksAttribute
+  fullName: wan24.ASP.Authorization.Attributes.NetworksAttribute
+  nameWithType: NetworksAttribute
+- uid: wan24.ASP.Authorization.Attributes.NetworksAttribute.#ctor(System.Boolean,System.String[])
+  name: NetworksAttribute(bool, params string[])
+  href: api/wan24.ASP.Authorization.Attributes.NetworksAttribute.html#wan24_ASP_Authorization_Attributes_NetworksAttribute__ctor_System_Boolean_System_String___
+  commentId: M:wan24.ASP.Authorization.Attributes.NetworksAttribute.#ctor(System.Boolean,System.String[])
+  name.vb: New(Boolean, ParamArray String())
+  fullName: wan24.ASP.Authorization.Attributes.NetworksAttribute.NetworksAttribute(bool, params string[])
+  fullName.vb: wan24.ASP.Authorization.Attributes.NetworksAttribute.New(Boolean, ParamArray String())
+  nameWithType: NetworksAttribute.NetworksAttribute(bool, params string[])
+  nameWithType.vb: NetworksAttribute.New(Boolean, ParamArray String())
+- uid: wan24.ASP.Authorization.Attributes.NetworksAttribute.#ctor(System.String[])
+  name: NetworksAttribute(params string[])
+  href: api/wan24.ASP.Authorization.Attributes.NetworksAttribute.html#wan24_ASP_Authorization_Attributes_NetworksAttribute__ctor_System_String___
+  commentId: M:wan24.ASP.Authorization.Attributes.NetworksAttribute.#ctor(System.String[])
+  name.vb: New(ParamArray String())
+  fullName: wan24.ASP.Authorization.Attributes.NetworksAttribute.NetworksAttribute(params string[])
+  fullName.vb: wan24.ASP.Authorization.Attributes.NetworksAttribute.New(ParamArray String())
+  nameWithType: NetworksAttribute.NetworksAttribute(params string[])
+  nameWithType.vb: NetworksAttribute.New(ParamArray String())
+- uid: wan24.ASP.Authorization.Attributes.NetworksAttribute.#ctor*
+  name: NetworksAttribute
+  href: api/wan24.ASP.Authorization.Attributes.NetworksAttribute.html#wan24_ASP_Authorization_Attributes_NetworksAttribute__ctor_
+  commentId: Overload:wan24.ASP.Authorization.Attributes.NetworksAttribute.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: wan24.ASP.Authorization.Attributes.NetworksAttribute.NetworksAttribute
+  fullName.vb: wan24.ASP.Authorization.Attributes.NetworksAttribute.New
+  nameWithType: NetworksAttribute.NetworksAttribute
+  nameWithType.vb: NetworksAttribute.New
+- uid: wan24.ASP.Authorization.Attributes.NetworksAttribute.Deny
+  name: Deny
+  href: api/wan24.ASP.Authorization.Attributes.NetworksAttribute.html#wan24_ASP_Authorization_Attributes_NetworksAttribute_Deny
+  commentId: P:wan24.ASP.Authorization.Attributes.NetworksAttribute.Deny
+  fullName: wan24.ASP.Authorization.Attributes.NetworksAttribute.Deny
+  nameWithType: NetworksAttribute.Deny
+- uid: wan24.ASP.Authorization.Attributes.NetworksAttribute.Deny*
+  name: Deny
+  href: api/wan24.ASP.Authorization.Attributes.NetworksAttribute.html#wan24_ASP_Authorization_Attributes_NetworksAttribute_Deny_
+  commentId: Overload:wan24.ASP.Authorization.Attributes.NetworksAttribute.Deny
+  isSpec: "True"
+  fullName: wan24.ASP.Authorization.Attributes.NetworksAttribute.Deny
+  nameWithType: NetworksAttribute.Deny
+- uid: wan24.ASP.Authorization.Attributes.NetworksAttribute.HandleRequirementAsync(Microsoft.AspNetCore.Authorization.AuthorizationHandlerContext,Microsoft.AspNetCore.Http.HttpContext,wan24.ASP.Authorization.AuthZRequirement)
+  name: HandleRequirementAsync(AuthorizationHandlerContext, HttpContext?, AuthZRequirement)
+  href: api/wan24.ASP.Authorization.Attributes.NetworksAttribute.html#wan24_ASP_Authorization_Attributes_NetworksAttribute_HandleRequirementAsync_Microsoft_AspNetCore_Authorization_AuthorizationHandlerContext_Microsoft_AspNetCore_Http_HttpContext_wan24_ASP_Authorization_AuthZRequirement_
+  commentId: M:wan24.ASP.Authorization.Attributes.NetworksAttribute.HandleRequirementAsync(Microsoft.AspNetCore.Authorization.AuthorizationHandlerContext,Microsoft.AspNetCore.Http.HttpContext,wan24.ASP.Authorization.AuthZRequirement)
+  name.vb: HandleRequirementAsync(AuthorizationHandlerContext, HttpContext, AuthZRequirement)
+  fullName: wan24.ASP.Authorization.Attributes.NetworksAttribute.HandleRequirementAsync(Microsoft.AspNetCore.Authorization.AuthorizationHandlerContext, Microsoft.AspNetCore.Http.HttpContext?, wan24.ASP.Authorization.AuthZRequirement)
+  fullName.vb: wan24.ASP.Authorization.Attributes.NetworksAttribute.HandleRequirementAsync(Microsoft.AspNetCore.Authorization.AuthorizationHandlerContext, Microsoft.AspNetCore.Http.HttpContext, wan24.ASP.Authorization.AuthZRequirement)
+  nameWithType: NetworksAttribute.HandleRequirementAsync(AuthorizationHandlerContext, HttpContext?, AuthZRequirement)
+  nameWithType.vb: NetworksAttribute.HandleRequirementAsync(AuthorizationHandlerContext, HttpContext, AuthZRequirement)
+- uid: wan24.ASP.Authorization.Attributes.NetworksAttribute.HandleRequirementAsync*
+  name: HandleRequirementAsync
+  href: api/wan24.ASP.Authorization.Attributes.NetworksAttribute.html#wan24_ASP_Authorization_Attributes_NetworksAttribute_HandleRequirementAsync_
+  commentId: Overload:wan24.ASP.Authorization.Attributes.NetworksAttribute.HandleRequirementAsync
+  isSpec: "True"
+  fullName: wan24.ASP.Authorization.Attributes.NetworksAttribute.HandleRequirementAsync
+  nameWithType: NetworksAttribute.HandleRequirementAsync
+- uid: wan24.ASP.Authorization.Attributes.NetworksAttribute.LAN
+  name: LAN
+  href: api/wan24.ASP.Authorization.Attributes.NetworksAttribute.html#wan24_ASP_Authorization_Attributes_NetworksAttribute_LAN
+  commentId: F:wan24.ASP.Authorization.Attributes.NetworksAttribute.LAN
+  fullName: wan24.ASP.Authorization.Attributes.NetworksAttribute.LAN
+  nameWithType: NetworksAttribute.LAN
+- uid: wan24.ASP.Authorization.Attributes.NetworksAttribute.LOOPBACK
+  name: LOOPBACK
+  href: api/wan24.ASP.Authorization.Attributes.NetworksAttribute.html#wan24_ASP_Authorization_Attributes_NetworksAttribute_LOOPBACK
+  commentId: F:wan24.ASP.Authorization.Attributes.NetworksAttribute.LOOPBACK
+  fullName: wan24.ASP.Authorization.Attributes.NetworksAttribute.LOOPBACK
+  nameWithType: NetworksAttribute.LOOPBACK
+- uid: wan24.ASP.Authorization.Attributes.NetworksAttribute.Networks
+  name: Networks
+  href: api/wan24.ASP.Authorization.Attributes.NetworksAttribute.html#wan24_ASP_Authorization_Attributes_NetworksAttribute_Networks
+  commentId: P:wan24.ASP.Authorization.Attributes.NetworksAttribute.Networks
+  fullName: wan24.ASP.Authorization.Attributes.NetworksAttribute.Networks
+  nameWithType: NetworksAttribute.Networks
+- uid: wan24.ASP.Authorization.Attributes.NetworksAttribute.Networks*
+  name: Networks
+  href: api/wan24.ASP.Authorization.Attributes.NetworksAttribute.html#wan24_ASP_Authorization_Attributes_NetworksAttribute_Networks_
+  commentId: Overload:wan24.ASP.Authorization.Attributes.NetworksAttribute.Networks
+  isSpec: "True"
+  fullName: wan24.ASP.Authorization.Attributes.NetworksAttribute.Networks
+  nameWithType: NetworksAttribute.Networks
+- uid: wan24.ASP.Authorization.Attributes.NetworksAttribute.RequirePeer
+  name: RequirePeer
+  href: api/wan24.ASP.Authorization.Attributes.NetworksAttribute.html#wan24_ASP_Authorization_Attributes_NetworksAttribute_RequirePeer
+  commentId: P:wan24.ASP.Authorization.Attributes.NetworksAttribute.RequirePeer
+  fullName: wan24.ASP.Authorization.Attributes.NetworksAttribute.RequirePeer
+  nameWithType: NetworksAttribute.RequirePeer
+- uid: wan24.ASP.Authorization.Attributes.NetworksAttribute.RequirePeer*
+  name: RequirePeer
+  href: api/wan24.ASP.Authorization.Attributes.NetworksAttribute.html#wan24_ASP_Authorization_Attributes_NetworksAttribute_RequirePeer_
+  commentId: Overload:wan24.ASP.Authorization.Attributes.NetworksAttribute.RequirePeer
+  isSpec: "True"
+  fullName: wan24.ASP.Authorization.Attributes.NetworksAttribute.RequirePeer
+  nameWithType: NetworksAttribute.RequirePeer
+- uid: wan24.ASP.Authorization.AuthZAttributeBase
+  name: AuthZAttributeBase
+  href: api/wan24.ASP.Authorization.AuthZAttributeBase.html
+  commentId: T:wan24.ASP.Authorization.AuthZAttributeBase
+  fullName: wan24.ASP.Authorization.AuthZAttributeBase
+  nameWithType: AuthZAttributeBase
+- uid: wan24.ASP.Authorization.AuthZAttributeBase.#ctor
+  name: AuthZAttributeBase()
+  href: api/wan24.ASP.Authorization.AuthZAttributeBase.html#wan24_ASP_Authorization_AuthZAttributeBase__ctor
+  commentId: M:wan24.ASP.Authorization.AuthZAttributeBase.#ctor
+  name.vb: New()
+  fullName: wan24.ASP.Authorization.AuthZAttributeBase.AuthZAttributeBase()
+  fullName.vb: wan24.ASP.Authorization.AuthZAttributeBase.New()
+  nameWithType: AuthZAttributeBase.AuthZAttributeBase()
+  nameWithType.vb: AuthZAttributeBase.New()
+- uid: wan24.ASP.Authorization.AuthZAttributeBase.#ctor*
+  name: AuthZAttributeBase
+  href: api/wan24.ASP.Authorization.AuthZAttributeBase.html#wan24_ASP_Authorization_AuthZAttributeBase__ctor_
+  commentId: Overload:wan24.ASP.Authorization.AuthZAttributeBase.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: wan24.ASP.Authorization.AuthZAttributeBase.AuthZAttributeBase
+  fullName.vb: wan24.ASP.Authorization.AuthZAttributeBase.New
+  nameWithType: AuthZAttributeBase.AuthZAttributeBase
+  nameWithType.vb: AuthZAttributeBase.New
+- uid: wan24.ASP.Authorization.AuthZAttributeBase.GetRequirements
+  name: GetRequirements()
+  href: api/wan24.ASP.Authorization.AuthZAttributeBase.html#wan24_ASP_Authorization_AuthZAttributeBase_GetRequirements
+  commentId: M:wan24.ASP.Authorization.AuthZAttributeBase.GetRequirements
+  fullName: wan24.ASP.Authorization.AuthZAttributeBase.GetRequirements()
+  nameWithType: AuthZAttributeBase.GetRequirements()
+- uid: wan24.ASP.Authorization.AuthZAttributeBase.GetRequirements*
+  name: GetRequirements
+  href: api/wan24.ASP.Authorization.AuthZAttributeBase.html#wan24_ASP_Authorization_AuthZAttributeBase_GetRequirements_
+  commentId: Overload:wan24.ASP.Authorization.AuthZAttributeBase.GetRequirements
+  isSpec: "True"
+  fullName: wan24.ASP.Authorization.AuthZAttributeBase.GetRequirements
+  nameWithType: AuthZAttributeBase.GetRequirements
+- uid: wan24.ASP.Authorization.AuthZAttributeBase.HandleRequirementAsync(Microsoft.AspNetCore.Authorization.AuthorizationHandlerContext,Microsoft.AspNetCore.Http.HttpContext,wan24.ASP.Authorization.AuthZRequirement)
+  name: HandleRequirementAsync(AuthorizationHandlerContext, HttpContext?, AuthZRequirement)
+  href: api/wan24.ASP.Authorization.AuthZAttributeBase.html#wan24_ASP_Authorization_AuthZAttributeBase_HandleRequirementAsync_Microsoft_AspNetCore_Authorization_AuthorizationHandlerContext_Microsoft_AspNetCore_Http_HttpContext_wan24_ASP_Authorization_AuthZRequirement_
+  commentId: M:wan24.ASP.Authorization.AuthZAttributeBase.HandleRequirementAsync(Microsoft.AspNetCore.Authorization.AuthorizationHandlerContext,Microsoft.AspNetCore.Http.HttpContext,wan24.ASP.Authorization.AuthZRequirement)
+  name.vb: HandleRequirementAsync(AuthorizationHandlerContext, HttpContext, AuthZRequirement)
+  fullName: wan24.ASP.Authorization.AuthZAttributeBase.HandleRequirementAsync(Microsoft.AspNetCore.Authorization.AuthorizationHandlerContext, Microsoft.AspNetCore.Http.HttpContext?, wan24.ASP.Authorization.AuthZRequirement)
+  fullName.vb: wan24.ASP.Authorization.AuthZAttributeBase.HandleRequirementAsync(Microsoft.AspNetCore.Authorization.AuthorizationHandlerContext, Microsoft.AspNetCore.Http.HttpContext, wan24.ASP.Authorization.AuthZRequirement)
+  nameWithType: AuthZAttributeBase.HandleRequirementAsync(AuthorizationHandlerContext, HttpContext?, AuthZRequirement)
+  nameWithType.vb: AuthZAttributeBase.HandleRequirementAsync(AuthorizationHandlerContext, HttpContext, AuthZRequirement)
+- uid: wan24.ASP.Authorization.AuthZAttributeBase.HandleRequirementAsync*
+  name: HandleRequirementAsync
+  href: api/wan24.ASP.Authorization.AuthZAttributeBase.html#wan24_ASP_Authorization_AuthZAttributeBase_HandleRequirementAsync_
+  commentId: Overload:wan24.ASP.Authorization.AuthZAttributeBase.HandleRequirementAsync
+  isSpec: "True"
+  fullName: wan24.ASP.Authorization.AuthZAttributeBase.HandleRequirementAsync
+  nameWithType: AuthZAttributeBase.HandleRequirementAsync
+- uid: wan24.ASP.Authorization.AuthZAttributeBase.Requirements
+  name: Requirements
+  href: api/wan24.ASP.Authorization.AuthZAttributeBase.html#wan24_ASP_Authorization_AuthZAttributeBase_Requirements
+  commentId: F:wan24.ASP.Authorization.AuthZAttributeBase.Requirements
+  fullName: wan24.ASP.Authorization.AuthZAttributeBase.Requirements
+  nameWithType: AuthZAttributeBase.Requirements
+- uid: wan24.ASP.Authorization.AuthZHandler
+  name: AuthZHandler
+  href: api/wan24.ASP.Authorization.AuthZHandler.html
+  commentId: T:wan24.ASP.Authorization.AuthZHandler
+  fullName: wan24.ASP.Authorization.AuthZHandler
+  nameWithType: AuthZHandler
+- uid: wan24.ASP.Authorization.AuthZHandler.#ctor
+  name: AuthZHandler()
+  href: api/wan24.ASP.Authorization.AuthZHandler.html#wan24_ASP_Authorization_AuthZHandler__ctor
+  commentId: M:wan24.ASP.Authorization.AuthZHandler.#ctor
+  name.vb: New()
+  fullName: wan24.ASP.Authorization.AuthZHandler.AuthZHandler()
+  fullName.vb: wan24.ASP.Authorization.AuthZHandler.New()
+  nameWithType: AuthZHandler.AuthZHandler()
+  nameWithType.vb: AuthZHandler.New()
+- uid: wan24.ASP.Authorization.AuthZHandler.#ctor(Microsoft.AspNetCore.Http.IHttpContextAccessor@)
+  name: AuthZHandler(in IHttpContextAccessor)
+  href: api/wan24.ASP.Authorization.AuthZHandler.html#wan24_ASP_Authorization_AuthZHandler__ctor_Microsoft_AspNetCore_Http_IHttpContextAccessor__
+  commentId: M:wan24.ASP.Authorization.AuthZHandler.#ctor(Microsoft.AspNetCore.Http.IHttpContextAccessor@)
+  name.vb: New(IHttpContextAccessor)
+  fullName: wan24.ASP.Authorization.AuthZHandler.AuthZHandler(in Microsoft.AspNetCore.Http.IHttpContextAccessor)
+  fullName.vb: wan24.ASP.Authorization.AuthZHandler.New(Microsoft.AspNetCore.Http.IHttpContextAccessor)
+  nameWithType: AuthZHandler.AuthZHandler(in IHttpContextAccessor)
+  nameWithType.vb: AuthZHandler.New(IHttpContextAccessor)
+- uid: wan24.ASP.Authorization.AuthZHandler.#ctor*
+  name: AuthZHandler
+  href: api/wan24.ASP.Authorization.AuthZHandler.html#wan24_ASP_Authorization_AuthZHandler__ctor_
+  commentId: Overload:wan24.ASP.Authorization.AuthZHandler.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: wan24.ASP.Authorization.AuthZHandler.AuthZHandler
+  fullName.vb: wan24.ASP.Authorization.AuthZHandler.New
+  nameWithType: AuthZHandler.AuthZHandler
+  nameWithType.vb: AuthZHandler.New
+- uid: wan24.ASP.Authorization.AuthZHandler.HandleRequirementAsync(Microsoft.AspNetCore.Authorization.AuthorizationHandlerContext,wan24.ASP.Authorization.AuthZRequirement)
+  name: HandleRequirementAsync(AuthorizationHandlerContext, AuthZRequirement)
+  href: api/wan24.ASP.Authorization.AuthZHandler.html#wan24_ASP_Authorization_AuthZHandler_HandleRequirementAsync_Microsoft_AspNetCore_Authorization_AuthorizationHandlerContext_wan24_ASP_Authorization_AuthZRequirement_
+  commentId: M:wan24.ASP.Authorization.AuthZHandler.HandleRequirementAsync(Microsoft.AspNetCore.Authorization.AuthorizationHandlerContext,wan24.ASP.Authorization.AuthZRequirement)
+  fullName: wan24.ASP.Authorization.AuthZHandler.HandleRequirementAsync(Microsoft.AspNetCore.Authorization.AuthorizationHandlerContext, wan24.ASP.Authorization.AuthZRequirement)
+  nameWithType: AuthZHandler.HandleRequirementAsync(AuthorizationHandlerContext, AuthZRequirement)
+- uid: wan24.ASP.Authorization.AuthZHandler.HandleRequirementAsync*
+  name: HandleRequirementAsync
+  href: api/wan24.ASP.Authorization.AuthZHandler.html#wan24_ASP_Authorization_AuthZHandler_HandleRequirementAsync_
+  commentId: Overload:wan24.ASP.Authorization.AuthZHandler.HandleRequirementAsync
+  isSpec: "True"
+  fullName: wan24.ASP.Authorization.AuthZHandler.HandleRequirementAsync
+  nameWithType: AuthZHandler.HandleRequirementAsync
+- uid: wan24.ASP.Authorization.AuthZHandler.HttpContextAccessor
+  name: HttpContextAccessor
+  href: api/wan24.ASP.Authorization.AuthZHandler.html#wan24_ASP_Authorization_AuthZHandler_HttpContextAccessor
+  commentId: F:wan24.ASP.Authorization.AuthZHandler.HttpContextAccessor
+  fullName: wan24.ASP.Authorization.AuthZHandler.HttpContextAccessor
+  nameWithType: AuthZHandler.HttpContextAccessor
+- uid: wan24.ASP.Authorization.AuthZRequirement
+  name: AuthZRequirement
+  href: api/wan24.ASP.Authorization.AuthZRequirement.html
+  commentId: T:wan24.ASP.Authorization.AuthZRequirement
+  fullName: wan24.ASP.Authorization.AuthZRequirement
+  nameWithType: AuthZRequirement
+- uid: wan24.ASP.Authorization.AuthZRequirement.#ctor(wan24.ASP.Authorization.AuthZAttributeBase@)
+  name: AuthZRequirement(in AuthZAttributeBase)
+  href: api/wan24.ASP.Authorization.AuthZRequirement.html#wan24_ASP_Authorization_AuthZRequirement__ctor_wan24_ASP_Authorization_AuthZAttributeBase__
+  commentId: M:wan24.ASP.Authorization.AuthZRequirement.#ctor(wan24.ASP.Authorization.AuthZAttributeBase@)
+  name.vb: New(AuthZAttributeBase)
+  fullName: wan24.ASP.Authorization.AuthZRequirement.AuthZRequirement(in wan24.ASP.Authorization.AuthZAttributeBase)
+  fullName.vb: wan24.ASP.Authorization.AuthZRequirement.New(wan24.ASP.Authorization.AuthZAttributeBase)
+  nameWithType: AuthZRequirement.AuthZRequirement(in AuthZAttributeBase)
+  nameWithType.vb: AuthZRequirement.New(AuthZAttributeBase)
+- uid: wan24.ASP.Authorization.AuthZRequirement.#ctor*
+  name: AuthZRequirement
+  href: api/wan24.ASP.Authorization.AuthZRequirement.html#wan24_ASP_Authorization_AuthZRequirement__ctor_
+  commentId: Overload:wan24.ASP.Authorization.AuthZRequirement.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: wan24.ASP.Authorization.AuthZRequirement.AuthZRequirement
+  fullName.vb: wan24.ASP.Authorization.AuthZRequirement.New
+  nameWithType: AuthZRequirement.AuthZRequirement
+  nameWithType.vb: AuthZRequirement.New
+- uid: wan24.ASP.Authorization.AuthZRequirement.AuthZAttribute
+  name: AuthZAttribute
+  href: api/wan24.ASP.Authorization.AuthZRequirement.html#wan24_ASP_Authorization_AuthZRequirement_AuthZAttribute
+  commentId: P:wan24.ASP.Authorization.AuthZRequirement.AuthZAttribute
+  fullName: wan24.ASP.Authorization.AuthZRequirement.AuthZAttribute
+  nameWithType: AuthZRequirement.AuthZAttribute
+- uid: wan24.ASP.Authorization.AuthZRequirement.AuthZAttribute*
+  name: AuthZAttribute
+  href: api/wan24.ASP.Authorization.AuthZRequirement.html#wan24_ASP_Authorization_AuthZRequirement_AuthZAttribute_
+  commentId: Overload:wan24.ASP.Authorization.AuthZRequirement.AuthZAttribute
+  isSpec: "True"
+  fullName: wan24.ASP.Authorization.AuthZRequirement.AuthZAttribute
+  nameWithType: AuthZRequirement.AuthZAttribute
+- uid: wan24.ASP.Authorization.AuthZRequirement.HandleRequirementAsync(Microsoft.AspNetCore.Authorization.AuthorizationHandlerContext,Microsoft.AspNetCore.Http.HttpContext)
+  name: HandleRequirementAsync(AuthorizationHandlerContext, HttpContext?)
+  href: api/wan24.ASP.Authorization.AuthZRequirement.html#wan24_ASP_Authorization_AuthZRequirement_HandleRequirementAsync_Microsoft_AspNetCore_Authorization_AuthorizationHandlerContext_Microsoft_AspNetCore_Http_HttpContext_
+  commentId: M:wan24.ASP.Authorization.AuthZRequirement.HandleRequirementAsync(Microsoft.AspNetCore.Authorization.AuthorizationHandlerContext,Microsoft.AspNetCore.Http.HttpContext)
+  name.vb: HandleRequirementAsync(AuthorizationHandlerContext, HttpContext)
+  fullName: wan24.ASP.Authorization.AuthZRequirement.HandleRequirementAsync(Microsoft.AspNetCore.Authorization.AuthorizationHandlerContext, Microsoft.AspNetCore.Http.HttpContext?)
+  fullName.vb: wan24.ASP.Authorization.AuthZRequirement.HandleRequirementAsync(Microsoft.AspNetCore.Authorization.AuthorizationHandlerContext, Microsoft.AspNetCore.Http.HttpContext)
+  nameWithType: AuthZRequirement.HandleRequirementAsync(AuthorizationHandlerContext, HttpContext?)
+  nameWithType.vb: AuthZRequirement.HandleRequirementAsync(AuthorizationHandlerContext, HttpContext)
+- uid: wan24.ASP.Authorization.AuthZRequirement.HandleRequirementAsync*
+  name: HandleRequirementAsync
+  href: api/wan24.ASP.Authorization.AuthZRequirement.html#wan24_ASP_Authorization_AuthZRequirement_HandleRequirementAsync_
+  commentId: Overload:wan24.ASP.Authorization.AuthZRequirement.HandleRequirementAsync
+  isSpec: "True"
+  fullName: wan24.ASP.Authorization.AuthZRequirement.HandleRequirementAsync
+  nameWithType: AuthZRequirement.HandleRequirementAsync
+- uid: wan24.ASP.Authorization.FakeAuthNHandler
+  name: FakeAuthNHandler
+  href: api/wan24.ASP.Authorization.FakeAuthNHandler.html
+  commentId: T:wan24.ASP.Authorization.FakeAuthNHandler
+  fullName: wan24.ASP.Authorization.FakeAuthNHandler
+  nameWithType: FakeAuthNHandler
+- uid: wan24.ASP.Authorization.FakeAuthNHandler.#ctor(Microsoft.Extensions.Options.IOptionsMonitor{Microsoft.AspNetCore.Authentication.AuthenticationSchemeOptions},Microsoft.Extensions.Logging.ILoggerFactory,System.Text.Encodings.Web.UrlEncoder)
+  name: FakeAuthNHandler(IOptionsMonitor<AuthenticationSchemeOptions>, ILoggerFactory, UrlEncoder)
+  href: api/wan24.ASP.Authorization.FakeAuthNHandler.html#wan24_ASP_Authorization_FakeAuthNHandler__ctor_Microsoft_Extensions_Options_IOptionsMonitor_Microsoft_AspNetCore_Authentication_AuthenticationSchemeOptions__Microsoft_Extensions_Logging_ILoggerFactory_System_Text_Encodings_Web_UrlEncoder_
+  commentId: M:wan24.ASP.Authorization.FakeAuthNHandler.#ctor(Microsoft.Extensions.Options.IOptionsMonitor{Microsoft.AspNetCore.Authentication.AuthenticationSchemeOptions},Microsoft.Extensions.Logging.ILoggerFactory,System.Text.Encodings.Web.UrlEncoder)
+  name.vb: New(IOptionsMonitor(Of AuthenticationSchemeOptions), ILoggerFactory, UrlEncoder)
+  fullName: wan24.ASP.Authorization.FakeAuthNHandler.FakeAuthNHandler(Microsoft.Extensions.Options.IOptionsMonitor<Microsoft.AspNetCore.Authentication.AuthenticationSchemeOptions>, Microsoft.Extensions.Logging.ILoggerFactory, System.Text.Encodings.Web.UrlEncoder)
+  fullName.vb: wan24.ASP.Authorization.FakeAuthNHandler.New(Microsoft.Extensions.Options.IOptionsMonitor(Of Microsoft.AspNetCore.Authentication.AuthenticationSchemeOptions), Microsoft.Extensions.Logging.ILoggerFactory, System.Text.Encodings.Web.UrlEncoder)
+  nameWithType: FakeAuthNHandler.FakeAuthNHandler(IOptionsMonitor<AuthenticationSchemeOptions>, ILoggerFactory, UrlEncoder)
+  nameWithType.vb: FakeAuthNHandler.New(IOptionsMonitor(Of AuthenticationSchemeOptions), ILoggerFactory, UrlEncoder)
+- uid: wan24.ASP.Authorization.FakeAuthNHandler.#ctor*
+  name: FakeAuthNHandler
+  href: api/wan24.ASP.Authorization.FakeAuthNHandler.html#wan24_ASP_Authorization_FakeAuthNHandler__ctor_
+  commentId: Overload:wan24.ASP.Authorization.FakeAuthNHandler.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: wan24.ASP.Authorization.FakeAuthNHandler.FakeAuthNHandler
+  fullName.vb: wan24.ASP.Authorization.FakeAuthNHandler.New
+  nameWithType: FakeAuthNHandler.FakeAuthNHandler
+  nameWithType.vb: FakeAuthNHandler.New
+- uid: wan24.ASP.Authorization.FakeAuthNHandler.HandleAuthenticateAsync
+  name: HandleAuthenticateAsync()
+  href: api/wan24.ASP.Authorization.FakeAuthNHandler.html#wan24_ASP_Authorization_FakeAuthNHandler_HandleAuthenticateAsync
+  commentId: M:wan24.ASP.Authorization.FakeAuthNHandler.HandleAuthenticateAsync
+  fullName: wan24.ASP.Authorization.FakeAuthNHandler.HandleAuthenticateAsync()
+  nameWithType: FakeAuthNHandler.HandleAuthenticateAsync()
+- uid: wan24.ASP.Authorization.FakeAuthNHandler.HandleAuthenticateAsync*
+  name: HandleAuthenticateAsync
+  href: api/wan24.ASP.Authorization.FakeAuthNHandler.html#wan24_ASP_Authorization_FakeAuthNHandler_HandleAuthenticateAsync_
+  commentId: Overload:wan24.ASP.Authorization.FakeAuthNHandler.HandleAuthenticateAsync
+  isSpec: "True"
+  fullName: wan24.ASP.Authorization.FakeAuthNHandler.HandleAuthenticateAsync
+  nameWithType: FakeAuthNHandler.HandleAuthenticateAsync
+- uid: wan24.ASP.Authorization.HostApplicationBuilderExtensions
+  name: HostApplicationBuilderExtensions
+  href: api/wan24.ASP.Authorization.HostApplicationBuilderExtensions.html
+  commentId: T:wan24.ASP.Authorization.HostApplicationBuilderExtensions
+  fullName: wan24.ASP.Authorization.HostApplicationBuilderExtensions
+  nameWithType: HostApplicationBuilderExtensions
+- uid: wan24.ASP.Authorization.HostApplicationBuilderExtensions.AddWan24AuthZ(Microsoft.Extensions.Hosting.IHostApplicationBuilder)
+  name: AddWan24AuthZ(IHostApplicationBuilder)
+  href: api/wan24.ASP.Authorization.HostApplicationBuilderExtensions.html#wan24_ASP_Authorization_HostApplicationBuilderExtensions_AddWan24AuthZ_Microsoft_Extensions_Hosting_IHostApplicationBuilder_
+  commentId: M:wan24.ASP.Authorization.HostApplicationBuilderExtensions.AddWan24AuthZ(Microsoft.Extensions.Hosting.IHostApplicationBuilder)
+  fullName: wan24.ASP.Authorization.HostApplicationBuilderExtensions.AddWan24AuthZ(Microsoft.Extensions.Hosting.IHostApplicationBuilder)
+  nameWithType: HostApplicationBuilderExtensions.AddWan24AuthZ(IHostApplicationBuilder)
+- uid: wan24.ASP.Authorization.HostApplicationBuilderExtensions.AddWan24AuthZ*
+  name: AddWan24AuthZ
+  href: api/wan24.ASP.Authorization.HostApplicationBuilderExtensions.html#wan24_ASP_Authorization_HostApplicationBuilderExtensions_AddWan24AuthZ_
+  commentId: Overload:wan24.ASP.Authorization.HostApplicationBuilderExtensions.AddWan24AuthZ
+  isSpec: "True"
+  fullName: wan24.ASP.Authorization.HostApplicationBuilderExtensions.AddWan24AuthZ
+  nameWithType: HostApplicationBuilderExtensions.AddWan24AuthZ
+- uid: wan24.ASP.Authorization.HostApplicationBuilderExtensions.AddWan24FakeAuthN(Microsoft.Extensions.Hosting.IHostApplicationBuilder)
+  name: AddWan24FakeAuthN(IHostApplicationBuilder)
+  href: api/wan24.ASP.Authorization.HostApplicationBuilderExtensions.html#wan24_ASP_Authorization_HostApplicationBuilderExtensions_AddWan24FakeAuthN_Microsoft_Extensions_Hosting_IHostApplicationBuilder_
+  commentId: M:wan24.ASP.Authorization.HostApplicationBuilderExtensions.AddWan24FakeAuthN(Microsoft.Extensions.Hosting.IHostApplicationBuilder)
+  fullName: wan24.ASP.Authorization.HostApplicationBuilderExtensions.AddWan24FakeAuthN(Microsoft.Extensions.Hosting.IHostApplicationBuilder)
+  nameWithType: HostApplicationBuilderExtensions.AddWan24FakeAuthN(IHostApplicationBuilder)
+- uid: wan24.ASP.Authorization.HostApplicationBuilderExtensions.AddWan24FakeAuthN*
+  name: AddWan24FakeAuthN
+  href: api/wan24.ASP.Authorization.HostApplicationBuilderExtensions.html#wan24_ASP_Authorization_HostApplicationBuilderExtensions_AddWan24FakeAuthN_
+  commentId: Overload:wan24.ASP.Authorization.HostApplicationBuilderExtensions.AddWan24FakeAuthN
+  isSpec: "True"
+  fullName: wan24.ASP.Authorization.HostApplicationBuilderExtensions.AddWan24FakeAuthN
+  nameWithType: HostApplicationBuilderExtensions.AddWan24FakeAuthN

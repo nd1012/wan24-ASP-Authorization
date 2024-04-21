@@ -1,0 +1,168 @@
+{
+  "source_base_path": "/home/runner/work/wan24-ASP-Authorization/wan24-ASP-Authorization/src/wan24-ASP-Authorization Docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "api/toc.json"
+        },
+        ".html": {
+          "relative_path": "api/toc.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/wan24.ASP.Authorization.Attributes.NetworksAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/wan24.ASP.Authorization.Attributes.NetworksAttribute.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/wan24.ASP.Authorization.Attributes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/wan24.ASP.Authorization.Attributes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/wan24.ASP.Authorization.AuthZAttributeBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/wan24.ASP.Authorization.AuthZAttributeBase.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/wan24.ASP.Authorization.AuthZHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/wan24.ASP.Authorization.AuthZHandler.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/wan24.ASP.Authorization.AuthZRequirement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/wan24.ASP.Authorization.AuthZRequirement.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/wan24.ASP.Authorization.FakeAuthNHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/wan24.ASP.Authorization.FakeAuthNHandler.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/wan24.ASP.Authorization.HostApplicationBuilderExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/wan24.ASP.Authorization.HostApplicationBuilderExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/wan24.ASP.Authorization.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/wan24.ASP.Authorization.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "articles/toc.json"
+        },
+        ".html": {
+          "relative_path": "articles/toc.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "toc.json"
+        },
+        ".html": {
+          "relative_path": "toc.html"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
