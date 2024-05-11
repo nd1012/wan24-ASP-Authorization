@@ -4,11 +4,11 @@ using wan24_ASP_Authorization_Integration_Tests;
 
 namespace wan24_ASP_Authorization_Tests
 {
-    public class RequirementTests : IClassFixture<WebApplicationFactory<Program>>, IDisposable
+    public class Integration_Tests : IClassFixture<WebApplicationFactory<Program>>, IDisposable
     {
         private readonly HttpClient Client;
 
-        public RequirementTests(WebApplicationFactory<Program> factory)
+        public Integration_Tests(WebApplicationFactory<Program> factory)
             => Client = factory.CreateClient(new WebApplicationFactoryClientOptions()
             {
                 AllowAutoRedirect = false
@@ -28,7 +28,7 @@ namespace wan24_ASP_Authorization_Tests
             Assert.Equal(HttpStatusCode.Forbidden, response.StatusCode);
         }
 
-        ~RequirementTests() => Client.Dispose();
+        ~Integration_Tests() => Client.Dispose();
 
         void IDisposable.Dispose()
         {
