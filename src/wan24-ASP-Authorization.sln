@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wan24-ASP-Authorization", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wan24-Core", "..\..\wan24-Core\src\Wan24-Core\Wan24-Core.csproj", "{839DF390-F21F-4DF6-ACEC-DEDADB120CAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wan24-ASP-Authorization Tests", "wan24-ASP-Authorization Tests\wan24-ASP-Authorization Tests.csproj", "{CDE81759-E8EF-4CC8-9614-72DBE0EEB3EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wan24-ASP-Authorization Tests", "wan24-ASP-Authorization Tests\wan24-ASP-Authorization Tests.csproj", "{CDE81759-E8EF-4CC8-9614-72DBE0EEB3EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wan24-ASP-Authorization Integration Tests", "wan24-ASP-Authorization Integration Tests\wan24-ASP-Authorization Integration Tests.csproj", "{C1782503-6D30-4382-91B7-2D131DCFD606}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wan24-ASP-Authorization Integration Tests", "wan24-ASP-Authorization Integration Tests\wan24-ASP-Authorization Integration Tests.csproj", "{C1782503-6D30-4382-91B7-2D131DCFD606}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,14 +32,14 @@ Global
 		{CDE81759-E8EF-4CC8-9614-72DBE0EEB3EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDE81759-E8EF-4CC8-9614-72DBE0EEB3EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDE81759-E8EF-4CC8-9614-72DBE0EEB3EF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CDE81759-E8EF-4CC8-9614-72DBE0EEB3EF}.Trunk|Any CPU.ActiveCfg = Debug|Any CPU
-		{CDE81759-E8EF-4CC8-9614-72DBE0EEB3EF}.Trunk|Any CPU.Build.0 = Debug|Any CPU
+		{CDE81759-E8EF-4CC8-9614-72DBE0EEB3EF}.Trunk|Any CPU.ActiveCfg = Trunk|Any CPU
+		{CDE81759-E8EF-4CC8-9614-72DBE0EEB3EF}.Trunk|Any CPU.Build.0 = Trunk|Any CPU
 		{C1782503-6D30-4382-91B7-2D131DCFD606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C1782503-6D30-4382-91B7-2D131DCFD606}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1782503-6D30-4382-91B7-2D131DCFD606}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1782503-6D30-4382-91B7-2D131DCFD606}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C1782503-6D30-4382-91B7-2D131DCFD606}.Trunk|Any CPU.ActiveCfg = Debug|Any CPU
-		{C1782503-6D30-4382-91B7-2D131DCFD606}.Trunk|Any CPU.Build.0 = Debug|Any CPU
+		{C1782503-6D30-4382-91B7-2D131DCFD606}.Trunk|Any CPU.ActiveCfg = Trunk|Any CPU
+		{C1782503-6D30-4382-91B7-2D131DCFD606}.Trunk|Any CPU.Build.0 = Trunk|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

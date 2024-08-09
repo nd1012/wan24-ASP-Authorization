@@ -6,6 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>wan24_ASP_Authorization_Integration_Tests</RootNamespace>
     <StartupObject>wan24_ASP_Authorization_Integration_Tests.Program</StartupObject>
+    <Configurations>Debug;Release;Trunk</Configurations>
   </PropertyGroup>
 
   <ItemGroup>

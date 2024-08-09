@@ -9,7 +9,7 @@
     <GenerateDocumentationFile>True</GenerateDocumentationFile>
     <PackageId>wan24-ASP-Authorization</PackageId>
     <Title>wan24-ASP-Authorization</Title>
-    <Version>1.1.0</Version>
+    <Version>1.2.0</Version>
     <Authors>nd1012</Authors>
     <Company>Andreas Zimmermann, wan24.de</Company>
     <Product>wan24-ASP-Authorization</Product>
