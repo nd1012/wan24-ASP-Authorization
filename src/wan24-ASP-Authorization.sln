@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wan24-ASP-Authorization Tes
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wan24-ASP-Authorization Integration Tests", "wan24-ASP-Authorization Integration Tests\wan24-ASP-Authorization Integration Tests.csproj", "{C1782503-6D30-4382-91B7-2D131DCFD606}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Referenced", "Referenced", "{BD1DAE32-AA6D-48B9-8C5E-D1690F48A8EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{839DF390-F21F-4DF6-ACEC-DEDADB120CAE} = {BD1DAE32-AA6D-48B9-8C5E-D1690F48A8EE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C480CB6C-2FE5-4916-8339-89A5109AD922}
