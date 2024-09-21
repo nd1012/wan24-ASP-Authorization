@@ -52,4 +52,7 @@ Global
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C480CB6C-2FE5-4916-8339-89A5109AD922}
 	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		..\..\wan24-Core\src\Others\wan24-Core-Shared\src\wan24-Core-Shared\wan24-Core-Shared.projitems*{839df390-f21f-4df6-acec-dedadb120cae}*SharedItemsImports = 5
+	EndGlobalSection
 EndGlobal
